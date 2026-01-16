@@ -22,9 +22,9 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/bisoncraft/go-bip39"
 	"github.com/dcrlabs/bchwallet/pymtproto"
 	"github.com/dcrlabs/bchwallet/wallet/txsizes"
-	"github.com/tyler-smith/go-bip39"
 	"google.golang.org/grpc/status"
 
 	"golang.org/x/net/context"
