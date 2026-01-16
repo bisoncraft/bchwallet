@@ -5,9 +5,9 @@
 package wallet
 
 import (
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb/migration"
-	"github.com/dcrlabs/bchwallet/wtxmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb/migration"
+	"github.com/bisoncraft/bchwallet/wtxmgr"
 	"github.com/gcash/bchlog"
 )
 

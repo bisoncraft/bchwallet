@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/pymtproto/payments"
+	"github.com/bisoncraft/bchwallet/pymtproto/payments"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/txscript"
 	"github.com/gcash/bchd/wire"

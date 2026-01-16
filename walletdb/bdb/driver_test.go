@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dcrlabs/bchwallet/walletdb"
-	_ "github.com/dcrlabs/bchwallet/walletdb/bdb"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	_ "github.com/bisoncraft/bchwallet/walletdb/bdb"
 )
 
 // dbType is the database type name for this driver.

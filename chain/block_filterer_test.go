@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/chain"
-	"github.com/dcrlabs/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/chain"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/wire"

@@ -13,9 +13,9 @@ import (
 	"io"
 	"runtime/debug"
 
+	"github.com/bisoncraft/bchwallet/internal/zero"
 	"github.com/btcsuite/golangcrypto/nacl/secretbox"
 	"github.com/btcsuite/golangcrypto/scrypt"
-	"github.com/dcrlabs/bchwallet/internal/zero"
 )
 
 var (

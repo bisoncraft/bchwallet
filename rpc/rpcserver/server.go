@@ -8,11 +8,11 @@
 // Full documentation of the API implemented by this package is maintained in a
 // language-agnostic document:
 //
-//	https://github.com/dcrlabs/bchwallet/blob/master/rpc/documentation/api.md
+//	https://github.com/bisoncraft/bchwallet/blob/master/rpc/documentation/api.md
 //
 // Any API changes must be performed according to the steps listed here:
 //
-//	https://github.com/dcrlabs/bchwallet/blob/master/rpc/documentation/serverchanges.md
+//	https://github.com/bisoncraft/bchwallet/blob/master/rpc/documentation/serverchanges.md
 package rpcserver
 
 import (
@@ -22,23 +22,23 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/pymtproto"
-	"github.com/dcrlabs/bchwallet/wallet/txsizes"
-	"github.com/tyler-smith/go-bip39"
+	"github.com/bisoncraft/bchwallet/pymtproto"
+	"github.com/bisoncraft/bchwallet/wallet/txsizes"
+	"github.com/bisoncraft/go-bip39"
 	"google.golang.org/grpc/status"
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	"github.com/dcrlabs/bchwallet/chain"
-	"github.com/dcrlabs/bchwallet/internal/cfgutil"
-	"github.com/dcrlabs/bchwallet/internal/zero"
-	"github.com/dcrlabs/bchwallet/netparams"
-	pb "github.com/dcrlabs/bchwallet/rpc/walletrpc"
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/wallet"
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/chain"
+	"github.com/bisoncraft/bchwallet/internal/cfgutil"
+	"github.com/bisoncraft/bchwallet/internal/zero"
+	"github.com/bisoncraft/bchwallet/netparams"
+	pb "github.com/bisoncraft/bchwallet/rpc/walletrpc"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/wallet"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/rpcclient"
 	"github.com/gcash/bchd/txscript"

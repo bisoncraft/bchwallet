@@ -15,11 +15,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/internal/cfgutil"
-	"github.com/dcrlabs/bchwallet/internal/legacy/keystore"
-	"github.com/dcrlabs/bchwallet/netparams"
-	"github.com/dcrlabs/bchwallet/wallet"
-	neutrino "github.com/dcrlabs/neutrino-bch"
+	"github.com/bisoncraft/bchwallet/internal/cfgutil"
+	"github.com/bisoncraft/bchwallet/internal/legacy/keystore"
+	"github.com/bisoncraft/bchwallet/netparams"
+	"github.com/bisoncraft/bchwallet/wallet"
+	neutrino "github.com/bisoncraft/neutrino-bch"
 	"github.com/gcash/bchutil"
 	flags "github.com/jessevdk/go-flags"
 )

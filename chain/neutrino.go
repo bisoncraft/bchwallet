@@ -9,9 +9,9 @@ import (
 
 	"github.com/gcash/bchd/btcjson"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/wtxmgr"
-	neutrino "github.com/dcrlabs/neutrino-bch"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/wtxmgr"
+	neutrino "github.com/bisoncraft/neutrino-bch"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/rpcclient"

@@ -12,10 +12,10 @@ import (
 
 	"golang.org/x/crypto/ssh/terminal"
 
-	"github.com/dcrlabs/bchwallet/internal/cfgutil"
-	"github.com/dcrlabs/bchwallet/netparams"
-	"github.com/dcrlabs/bchwallet/wallet/txauthor"
-	"github.com/dcrlabs/bchwallet/wallet/txrules"
+	"github.com/bisoncraft/bchwallet/internal/cfgutil"
+	"github.com/bisoncraft/bchwallet/netparams"
+	"github.com/bisoncraft/bchwallet/wallet/txauthor"
+	"github.com/bisoncraft/bchwallet/wallet/txrules"
 	"github.com/gcash/bchd/btcjson"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/rpcclient"

@@ -5,10 +5,10 @@
 package wallet
 
 import (
-	"github.com/dcrlabs/bchwallet/chain"
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb"
-	"github.com/dcrlabs/bchwallet/wtxmgr"
+	"github.com/bisoncraft/bchwallet/chain"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/wtxmgr"
 	"github.com/gcash/bchd/txscript"
 	"github.com/gcash/bchd/wire"
 	"github.com/gcash/bchutil"

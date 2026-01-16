@@ -8,14 +8,14 @@ package txauthor
 import (
 	"errors"
 
-	"github.com/dcrlabs/bchwallet/wallet/txrules"
+	"github.com/bisoncraft/bchwallet/wallet/txrules"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/txscript"
 	"github.com/gcash/bchd/wire"
 	"github.com/gcash/bchutil"
 
-	h "github.com/dcrlabs/bchwallet/internal/helpers"
-	"github.com/dcrlabs/bchwallet/wallet/txsizes"
+	h "github.com/bisoncraft/bchwallet/internal/helpers"
+	"github.com/bisoncraft/bchwallet/wallet/txsizes"
 )
 
 // InputSource provides transaction inputs referencing spendable outputs to

@@ -7,7 +7,7 @@ package waddrmgr
 import (
 	"time"
 
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 )
 

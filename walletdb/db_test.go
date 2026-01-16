@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dcrlabs/bchwallet/walletdb"
-	_ "github.com/dcrlabs/bchwallet/walletdb/bdb"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	_ "github.com/bisoncraft/bchwallet/walletdb/bdb"
 )
 
 var (

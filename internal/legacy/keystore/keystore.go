@@ -24,7 +24,7 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/dcrlabs/bchwallet/internal/legacy/rename"
+	"github.com/bisoncraft/bchwallet/internal/legacy/rename"
 	"github.com/gcash/bchd/bchec"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/chaincfg/chainhash"

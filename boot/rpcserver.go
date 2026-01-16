@@ -19,9 +19,9 @@ import (
 
 	"google.golang.org/grpc/metadata"
 
-	"github.com/dcrlabs/bchwallet/rpc/legacyrpc"
-	"github.com/dcrlabs/bchwallet/rpc/rpcserver"
-	"github.com/dcrlabs/bchwallet/wallet"
+	"github.com/bisoncraft/bchwallet/rpc/legacyrpc"
+	"github.com/bisoncraft/bchwallet/rpc/rpcserver"
+	"github.com/bisoncraft/bchwallet/wallet"
 	"github.com/gcash/bchutil"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

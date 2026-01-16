@@ -13,7 +13,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dcrlabs/bchwallet/internal/rpchelp"
+	"github.com/bisoncraft/bchwallet/internal/rpchelp"
 	"github.com/gcash/bchd/btcjson"
 )
 

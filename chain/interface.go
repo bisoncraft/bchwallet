@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/wtxmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/wtxmgr"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/wire"
 	"github.com/gcash/bchutil"

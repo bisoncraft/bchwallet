@@ -11,10 +11,10 @@ import (
 	"reflect"
 	"testing"
 
-	vp "github.com/dcrlabs/bchwallet/votingpool"
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb"
-	_ "github.com/dcrlabs/bchwallet/walletdb/bdb"
+	vp "github.com/bisoncraft/bchwallet/votingpool"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	_ "github.com/bisoncraft/bchwallet/walletdb/bdb"
 	"github.com/gcash/bchutil/hdkeychain"
 )
 

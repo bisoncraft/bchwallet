@@ -18,7 +18,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dcrlabs/bchwallet/walletdb/walletdbtest"
+	"github.com/bisoncraft/bchwallet/walletdb/walletdbtest"
 )
 
 // TestInterface performs all interfaces tests for this database driver.

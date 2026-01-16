@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/internal/prompt"
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/internal/prompt"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"github.com/gcash/bchd/chaincfg"
 )
 

@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/dcrlabs/bchwallet/boot"
+	"github.com/bisoncraft/bchwallet/boot"
 
 	_ "net/http/pprof"
 	"os"

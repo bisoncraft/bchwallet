@@ -12,10 +12,10 @@ import (
 	"os"
 	"strings"
 
+	"github.com/bisoncraft/bchwallet/internal/legacy/keystore"
+	"github.com/bisoncraft/go-bip39"
 	"github.com/btcsuite/golangcrypto/ssh/terminal"
-	"github.com/dcrlabs/bchwallet/internal/legacy/keystore"
 	"github.com/gcash/bchutil/hdkeychain"
-	"github.com/tyler-smith/go-bip39"
 )
 
 // ProvideSeed is used to prompt for the wallet seed which maybe required during

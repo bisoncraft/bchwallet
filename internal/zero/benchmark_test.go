@@ -7,7 +7,7 @@ package zero_test
 import (
 	"testing"
 
-	. "github.com/dcrlabs/bchwallet/internal/zero"
+	. "github.com/bisoncraft/bchwallet/internal/zero"
 )
 
 var (

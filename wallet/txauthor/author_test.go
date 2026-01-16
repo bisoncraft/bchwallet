@@ -7,12 +7,12 @@ package txauthor_test
 import (
 	"testing"
 
-	. "github.com/dcrlabs/bchwallet/wallet/txauthor"
-	"github.com/dcrlabs/bchwallet/wallet/txrules"
+	. "github.com/bisoncraft/bchwallet/wallet/txauthor"
+	"github.com/bisoncraft/bchwallet/wallet/txrules"
 	"github.com/gcash/bchd/wire"
 	"github.com/gcash/bchutil"
 
-	"github.com/dcrlabs/bchwallet/wallet/txsizes"
+	"github.com/bisoncraft/bchwallet/wallet/txsizes"
 )
 
 func p2pkhOutputs(amounts ...bchutil.Amount) []*wire.TxOut {

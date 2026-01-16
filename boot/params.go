@@ -4,6 +4,6 @@
 
 package boot
 
-import "github.com/dcrlabs/bchwallet/netparams"
+import "github.com/bisoncraft/bchwallet/netparams"
 
 var activeNet = &netparams.MainNetParams

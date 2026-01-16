@@ -8,7 +8,7 @@ package wtxmgr
 import (
 	"fmt"
 
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchutil"
 )

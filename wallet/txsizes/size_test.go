@@ -3,7 +3,7 @@ package txsizes_test
 import (
 	"testing"
 
-	. "github.com/dcrlabs/bchwallet/wallet/txsizes"
+	. "github.com/bisoncraft/bchwallet/wallet/txsizes"
 	"github.com/gcash/bchd/wire"
 )
 

@@ -9,12 +9,12 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"github.com/dcrlabs/bchwallet/chain"
-	"github.com/dcrlabs/bchwallet/rpc/legacyrpc"
-	"github.com/dcrlabs/bchwallet/rpc/rpcserver"
-	"github.com/dcrlabs/bchwallet/wallet"
-	"github.com/dcrlabs/bchwallet/walletdb"
-	neutrino "github.com/dcrlabs/neutrino-bch"
+	"github.com/bisoncraft/bchwallet/chain"
+	"github.com/bisoncraft/bchwallet/rpc/legacyrpc"
+	"github.com/bisoncraft/bchwallet/rpc/rpcserver"
+	"github.com/bisoncraft/bchwallet/wallet"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	neutrino "github.com/bisoncraft/neutrino-bch"
 	"github.com/miekg/dns"
 )
 

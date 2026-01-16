@@ -7,7 +7,7 @@ package votingpool_test
 import (
 	"testing"
 
-	vp "github.com/dcrlabs/bchwallet/votingpool"
+	vp "github.com/bisoncraft/bchwallet/votingpool"
 )
 
 // TestErrorCodeStringer tests that all error codes has a text

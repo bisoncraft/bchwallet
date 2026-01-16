@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/dcrlabs/bchwallet/wallet"
+	"github.com/bisoncraft/bchwallet/wallet"
 )
 
 // Harness holds the BranchRecoveryState being tested, the recovery window being

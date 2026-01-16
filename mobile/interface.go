@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/boot"
+	"github.com/bisoncraft/bchwallet/boot"
 )
 
 // StartWallet is the function exposed to the mobile device to start the bchwallet.

@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/dcrlabs/bchwallet/internal/zero"
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/internal/zero"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"github.com/gcash/bchd/txscript"
 	"github.com/gcash/bchutil"
 	"github.com/gcash/bchutil/hdkeychain"

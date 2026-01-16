@@ -8,7 +8,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"go.etcd.io/bbolt"
 )
 

@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	vp "github.com/dcrlabs/bchwallet/votingpool"
+	vp "github.com/bisoncraft/bchwallet/votingpool"
 	"github.com/gcash/bchutil"
 	"github.com/gcash/bchutil/hdkeychain"
 )

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
 	"github.com/gcash/bchutil/hdkeychain"
 )
 

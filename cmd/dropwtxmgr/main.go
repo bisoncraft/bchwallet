@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb"
-	_ "github.com/dcrlabs/bchwallet/walletdb/bdb"
-	"github.com/dcrlabs/bchwallet/wtxmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	_ "github.com/bisoncraft/bchwallet/walletdb/bdb"
+	"github.com/bisoncraft/bchwallet/wtxmgr"
 	"github.com/gcash/bchutil"
 	"github.com/jessevdk/go-flags"
 )

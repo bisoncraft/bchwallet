@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/dcrlabs/bchwallet/internal/zero"
+	. "github.com/bisoncraft/bchwallet/internal/zero"
 )
 
 func makeOneBytes(n int) []byte {

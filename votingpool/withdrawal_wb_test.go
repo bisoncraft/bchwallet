@@ -10,9 +10,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
-	"github.com/dcrlabs/bchwallet/walletdb"
-	"github.com/dcrlabs/bchwallet/wtxmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/wtxmgr"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/txscript"
 	"github.com/gcash/bchd/wire"
